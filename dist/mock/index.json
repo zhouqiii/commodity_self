@@ -1,0 +1,169 @@
+{
+    "ret": true,
+    "loss": {
+      "total":11,
+      "totalPage":2,
+      "allList": [{
+        "name": "椰蛋",
+        "id": "l",
+        "price": "24.8",
+        "startDate": "2016-09-21",
+        "endDate": "2016-09-23",
+        "amount": "496.00",
+        "list":[
+          {"time":"2016-09-21","number":"1","money":"24.8"},
+          {"time":"2016-09-22","number":"1","money":"24.8"},
+          {"time":"2016-09-21","number":"9","money":"223.2"},
+          {"time":"2016-09-22","number":"9","money":"223.2"}]
+      }, {
+        "name": "椰子千层",
+        "id": "v",
+        "price": "18.5",
+        "startDate": "2016-09-21",
+        "endDate": "2016-09-23",
+        "amount": "72.00",
+        "list":[
+          {"time":"2016-09-21","number":"4","money":"72.00"}]
+      }, {
+        "name": "M蛋糕",
+        "id": "a",
+        "price": "19",
+        "startDate": "2016-09-21",
+        "endDate": "2016-09-23",
+        "amount": "19.00",
+        "list":[
+          {"time":"2016-09-21","number":"1","money":"19"}]
+      }]
+    },
+    "list": {
+        "total":32,
+        "totalPage":4,
+        "allList": [{
+          "name": "NOLL安佳淡奶油",
+          "id": "l",
+          "price": "415",
+          "startDate": "2016-09-21",
+          "endDate": "2016-09-23",
+          "amount": "1245.00",
+          "list":[
+            {"time":"2016-09-21","number":"2","money":"830"},
+            {"time":"2016-09-22","number":"1","money":"415"}]
+        }, {
+          "name": "NOLL燕麦奶",
+          "id": "v",
+          "price": "120",
+          "startDate": "2016-09-21",
+          "endDate": "2016-09-23",
+          "amount": "6000.00",
+          "list":[
+            {"time":"2016-09-21","number":"3","money":"360"},
+            {"time":"2016-09-22","number":"2","money":"240"}]
+        }, {
+          "name": "花魁单品豆",
+          "id": "a",
+          "price": "50",
+          "startDate": "2016-09-21",
+          "endDate": "2016-09-23",
+          "amount": "1000.00",
+          "list":[
+            {"time":"2016-09-21","number":"10","money":"500"},
+            {"time":"2016-09-22","number":"10","money":"500"}]
+        }, {
+          "name": "肯尼亚单品豆",
+          "id": "b",
+          "price": "45",
+          "startDate": "2019-09-21",
+          "endDate": "2019-09-23",
+          "amount": "900.00",
+          "list":[
+            {"time":"2019-09-21","number":"10","money":"450"},
+            {"time":"2019-09-22","number":"10","money":"450"}]
+        },{
+          "name": "曼特宁单品豆",
+          "id": "w",
+          "price": "42",
+          "startDate": "2016-09-21",
+          "endDate": "2016-09-23",
+          "amount": "1000.00",
+          "list":[
+            {"time":"2016-09-21","number":"10","money":"500"},
+            {"time":"2016-09-22","number":"10","money":"500"}]
+        }, {
+          "name": "意式咖啡豆(小包装）",
+          "id": "h",
+          "price": "18",
+          "startDate": "2019-09-21",
+          "endDate": "2019-09-23",
+          "amount": "900.00",
+          "list":[
+            {"time":"2019-09-21","number":"10","money":"450"},
+            {"time":"2019-09-22","number":"10","money":"450"}]
+        },{
+          "name": "花魁挂耳",
+          "id": "s",
+          "price": "11.5",
+          "startDate": "2016-09-21",
+          "endDate": "2016-09-23",
+          "amount": "1000.00",
+          "list":[
+            {"time":"2016-09-21","number":"10","money":"500"},
+            {"time":"2016-09-22","number":"10","money":"500"}]
+        }, {
+          "name": "肯尼亚挂耳",
+          "id": "g",
+          "price": "12.25",
+          "startDate": "2019-09-21",
+          "endDate": "2019-09-23",
+          "amount": "900.00",
+          "list":[
+            {"time":"2019-09-21","number":"10","money":"450"},
+            {"time":"2019-09-22","number":"10","money":"450"}]
+        },{
+          "name": "曼特宁挂耳",
+          "id": "f",
+          "price": "12.25",
+          "startDate": "2016-09-21",
+          "endDate": "2016-09-23",
+          "amount": "1000.00",
+          "list":[
+            {"time":"2016-09-21","number":"10","money":"500"},
+            {"time":"2016-09-22","number":"10","money":"500"}]
+        }, {
+          "name": "意式豆1kg",
+          "id": "q",
+          "price": "75",
+          "startDate": "2019-09-21",
+          "endDate": "2019-09-23",
+          "amount": "900.00",
+          "list":[
+            {"time":"2019-09-21","number":"10","money":"450"},
+            {"time":"2019-09-22","number":"10","money":"450"}]
+        }, {
+          "name": "唯品牛奶",
+          "id": "r",
+          "price": "136.02",
+          "startDate": "2019-09-21",
+          "endDate": "2019-09-23",
+          "amount": "900.00",
+          "list":[
+            {"time":"2019-09-21","number":"10","money":"450"},
+            {"time":"2019-09-22","number":"10","money":"450"}]
+        }, {
+          "name": "冰博客",
+          "id": "p",
+          "price": "222.58",
+          "startDate": "2019-09-21",
+          "endDate": "2019-09-23",
+          "amount": "900.00",
+          "list":[
+            {"time":"2019-09-21","number":"10","money":"450"},
+            {"time":"2019-09-22","number":"10","money":"450"}]
+        }],
+        "msgBox":{
+          "cardName":"同意授权缤纷生活将本人银行卡信息传递给京东",
+          "cancel":"取消",
+          "confirm":"确定"
+        }
+      
+    }
+  }
